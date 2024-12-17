@@ -36,7 +36,7 @@ This analysis is based on the data provided by Shield Insurance, covering the pe
 4. fact_premiums 
 5. fact_settlements
 
-# Insights
+# Insights 🔍
 
 ## 1. Customer Base
 - The company serves a substantial customer base of **26,841 individuals**, reflecting its strong market presence.
