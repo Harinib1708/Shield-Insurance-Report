@@ -1,4 +1,5 @@
 # Shield-Insurance-Report
+Welcome to the Shield Insurance Project Power BI project repository! 🚀
 
 # About Us
 
@@ -76,9 +77,8 @@ This analysis is based on the data provided by Shield Insurance, covering the pe
 ## 9. Age Group Insights
 - Across all policies, the **31-40 years** age group consistently dominates in both customer numbers and revenue, solidifying its importance as a core demographic for the company.
 
----
 
-# Actionable Recommendations
+# Actionable Recommendations ✨
 
 1. **Target Younger Demographics**  
    - The **18-24 age group** has fewer customers and generates less revenue.  
@@ -102,6 +102,7 @@ This analysis is based on the data provided by Shield Insurance, covering the pe
      - Enhance product knowledge.
      - Offer better customer service, ensuring continued success in the primary sales channel.
 
+# Explore, Analyze, Decide 📊🔍🎯🚀
 
 
 
