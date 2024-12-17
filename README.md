@@ -1,7 +1,7 @@
 # Shield-Insurance-Report
 Welcome to the Shield Insurance Project Power BI project repository! 🚀
 
-# About Us
+# Introduction
 
 **Shield Insurance** was founded with a vision to provide comprehensive and innovative insurance solutions to individuals, families, and businesses.  
 They have entrusted our team with the task of conducting a comprehensive analysis to evaluate the performance of their company.  
