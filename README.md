@@ -36,6 +36,9 @@ This analysis is based on the data provided by Shield Insurance, covering the pe
 4. fact_premiums 
 5. fact_settlements
 
+# Live Dashboard Link 📊
+Explore the live dashboard [here.](https://app.powerbi.com/view?r=eyJrIjoiMjE2YjAxN2EtNjU5NC00MzYzLTlmZGMtZGZhNWEwZjM4OGIwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 # Insights 🔍
 
 ## 1. Customer Base
